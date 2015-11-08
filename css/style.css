@@ -1,0 +1,62 @@
+html {
+    font-family: "Quicksand", sans-serif !important;
+}
+
+.nav {
+    padding: 15px 15px;
+}
+
+.nav ul {
+    list-style-type: none;
+    margin-right: 50px;
+    float: right;
+}
+
+.nav ul li {
+    display: inline;
+    font-size: 20px;
+    padding: 0px 15px;
+    color: #4099ff;
+}
+
+.nav ul li a {
+    text-decoration: none;
+    color: inherit;
+}
+
+.nav-logo {
+    margin-left: 30px;
+    width: 180px;
+    height: 100%;
+}
+
+#header {
+    background: url(../image/header-compressor.jpg) no-repeat center center fixed;
+    
+    -webkit-background-size: 100% auto;
+    
+    -moz-background-size: 100% auto;
+    
+    -ms-background-size: 100% auto;
+    
+    -o-background-size: 100% auto;
+    
+    background-size: 100% auto;
+    
+}
+}
+
+.text-center {
+    text-align: center;
+}
+
+#header-text {
+    padding: 200px;
+    padding-bottom: 1000px;
+}
+
+.text-vcenter {
+    display: table-cell;
+    text-align: center;
+    vertical-align: middle;
+}
